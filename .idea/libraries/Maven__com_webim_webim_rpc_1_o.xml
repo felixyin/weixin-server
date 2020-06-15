@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.webim:webim-rpc:1.o">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/webim/webim-rpc/1.o/webim-rpc-1.o.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/webim/webim-rpc/1.o/webim-rpc-1.o-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/webim/webim-rpc/1.o/webim-rpc-1.o-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
